@@ -1,0 +1,9 @@
+numpy
+matplotlib
+sklearn
+scipy
+jupyterlab
+ipywidgets
+bs4
+tensorflow-hub==0.10.0
+tensorflow-text==2.4.2
